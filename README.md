@@ -1,1 +1,1 @@
-This is team 64's COGS108 - Data Sciene project. The final project with a report is in the file "Final Project with q-w-h's changes.ipynb." In this repository, we also have some datasets that we used in the earlier and final stages of the projetc.
+This is team 64's COGS108: Data Sciene project. The final project with a report is in the file "Final Project with q-w-h's changes.ipynb." In this repository, we also have some datasets that we used in the earlier and final stages of the projetc.
